@@ -20,6 +20,10 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * Vue - https://vuejs.org/ } es progresivo, se puede meter de a poco en proyectos legados
 
+ * https://get.foundation/ }  responsive front-end framework
+
+ * https://bulma.io/ } CSS framework based on Flexbox
+
  ## Back-end
 
  * PHP
@@ -29,6 +33,8 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
  * Node.JS
 
  * MongoDB
+
+ * MariaDB
 
  ## Fonts
 
