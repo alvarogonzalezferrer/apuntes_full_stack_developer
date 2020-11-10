@@ -42,6 +42,10 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * Visual Studio Code
 
+ * Brackets
+
+ * Light Table
+
 ## Herramientas variadas
 
 * GIMP
@@ -54,4 +58,28 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 * Brave Browser
 
-* Brackets 
+* 7-Zip
+
+* Filezilla FTP
+
+* BCUninstaller
+
+* Cryptomator
+
+* DBeaver (IDE para Mysql GENIAL)
+
+* DigiKAM
+
+* dupeGuru
+
+* SumatraPDF
+
+* LibreOffice
+
+* Inkscape
+
+* Irfanview
+
+* Process Hacker 2
+
+* WAMP server / AMPPS / XAMP
