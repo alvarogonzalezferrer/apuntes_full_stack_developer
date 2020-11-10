@@ -100,4 +100,4 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 * Open-Shell
 
-* WinMerge }  diff and merge
+* WinMerge - https://winmerge.org/ }  diff and merge
