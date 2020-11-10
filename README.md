@@ -95,3 +95,9 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 * Process Hacker 2
 
 * WAMP server / AMPPS / XAMP
+
+* Meld - https://meldmerge.org/ }  diff and merge
+
+* Open-Shell
+
+* WinMerge }  diff and merge
