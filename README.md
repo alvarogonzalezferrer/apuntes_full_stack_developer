@@ -122,7 +122,7 @@ Para ver TV sin molestias, publicidad etc
 
 ### Bloquear publicidad
 
-* Blokada.org
+* Blokada.org } LO MEJOR PARA ELIMINAR LA PUBLICIDAD EN EL CELU / TV / etc
 
 * Firefox + uBlock origin
 
@@ -150,9 +150,9 @@ Para ver TV sin molestias, publicidad etc
 
 Sin la molestia de Google y su invasión a la privacidad
 
-* F-Droid
+* F-Droid - https://f-droid.org/ } de aca se puede instalar la aurora store, new pipe, etc
 
-* Aurora Store
+* Aurora Store } https://auroraoss.com/downloads.php (**es segura esta APK ??** mejor sacarla de F-Droid)
 
 ### Sacarse a Google de encima
 
@@ -165,3 +165,10 @@ https://degoogle.jmoore.dev/
 https://www.reddit.com/r/degoogle/
 
 https://en.wikipedia.org/wiki/DeGoogle
+
+
+# Privacidad
+
+Falta mucho aca...
+
+https://www.reddit.com/r/privacytoolsIO
