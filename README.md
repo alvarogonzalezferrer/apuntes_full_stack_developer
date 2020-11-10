@@ -6,13 +6,19 @@ Aca voy a ir poniendo enlaces a cosas que me resultan útiles en mi desarrollo p
 
 Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
- ## Front-end
+ ## Front-end / javascript frameworks
 
  * Materialize : https://materializecss.com/
 
- * Bootstrap
+ * Bootstrap / Material design: https://mdbootstrap.com/
 
  * React.js - single page web app (SAP) and mobile app.
+
+ * JQuery - https://jquery.com/
+
+ * Angular - https://angular.io/
+
+ * Vue - https://vuejs.org/ } es progresivo, se puede meter de a poco en proyectos legados
 
  ## Back-end
 
