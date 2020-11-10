@@ -101,3 +101,13 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 * Open-Shell
 
 * WinMerge - https://winmerge.org/ }  diff and merge
+
+* Ninite } instalaciones automatizadas, muy util!
+
+* Paint.NET
+
+* Inkscape
+
+* WinDirStat
+
+* scrcpy - https://github.com/Genymobile/scrcpy } ver la pantalla del celu en la compu
