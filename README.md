@@ -111,3 +111,57 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 * WinDirStat
 
 * scrcpy - https://github.com/Genymobile/scrcpy } ver la pantalla del celu en la compu
+
+## Android TV
+
+Para ver TV sin molestias, publicidad etc
+
+### Hardware
+
+* Android TV Box } hardware https://www.amazon.com/s?k=android+tv+box
+
+### Bloquear publicidad
+
+* Blokada.org
+
+* Firefox + uBlock origin
+
+ó
+
+* Brave Browser
+
+### Launcher sencillo
+
+* Simple TV Launcher - https://github.com/alescdb/LauncherTV
+
+### Peliculas, series, etc
+
+* Stremio } activar los plugins
+
+### Youtube
+
+* Youtube Vanced - https://vanced.app/
+
+ó
+
+* Newpipe
+
+### Instalar aplicaciones
+
+Sin la molestia de Google y su invasión a la privacidad
+
+* F-Droid
+
+* Aurora Store
+
+### Sacarse a Google de encima
+
+https://en.wikipedia.org/wiki/MicroG
+
+https://github.com/tycrek/degoogle
+
+https://degoogle.jmoore.dev/
+
+https://www.reddit.com/r/degoogle/
+
+https://en.wikipedia.org/wiki/DeGoogle
