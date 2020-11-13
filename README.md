@@ -209,6 +209,12 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 * Ruqqus / Voat } como Reddit, pero sin censura
 
+* Diaspora } red social
+
+* https://en.wikipedia.org/wiki/Fediverse } redes sociales federadas
+
+* https://dissenter.com/
+
 * Mas tecnologia alternativa: https://en.wikipedia.org/wiki/Alt-tech
 
 ## Mas privacidad
