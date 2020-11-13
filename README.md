@@ -64,7 +64,6 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 * https://readthedocs.org/
 
-
 ## Herramientas variadas
 
 * GIMP
@@ -176,13 +175,13 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 # Privacidad
 
-## Red social
+* Tor
 
 * MeWe
 
-* Parler
+* Parler } simil twitter, pero sin censura 
 
-* Mastodon
+* Mastodon Social } mejor que Facebutt
 
 * Signal
 
@@ -203,6 +202,10 @@ https://en.wikipedia.org/wiki/DeGoogle
 * Bibiogram
 
 * Libgen } libros
+
+* Bitchute - https://www.bitchute.com/ } como youtube, sin censura
+
+* Ruqqus / Voat } como Reddit, pero sin censura
 
 ## Mas privacidad
 
