@@ -179,7 +179,7 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 * MeWe
 
-* Parler } simil twitter, pero sin censura 
+* Parler } simil twitter, pero sin censura
 
 * Mastodon Social } mejor que Facebutt
 
@@ -212,3 +212,15 @@ https://en.wikipedia.org/wiki/DeGoogle
 Falta mucho aca...
 
 https://www.reddit.com/r/privacytoolsIO
+
+
+
+.
+.
+.
+.
+.
+.
+.
+
+*Sic transit gloria mundi*
