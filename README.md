@@ -181,7 +181,7 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 * Parler } simil twitter, pero sin censura
 
-* Gab - https://gab.com/ } mejor que twitter, sin censura 
+* Gab - https://gab.com/ } mejor que twitter, sin censura
 
 * Mastodon Social } mejor que Facebutt
 
@@ -208,6 +208,8 @@ https://en.wikipedia.org/wiki/DeGoogle
 * Bitchute - https://www.bitchute.com/ } como youtube, sin censura
 
 * Ruqqus / Voat } como Reddit, pero sin censura
+
+* Mas tecnologia alternativa: https://en.wikipedia.org/wiki/Alt-tech
 
 ## Mas privacidad
 
