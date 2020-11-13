@@ -181,6 +181,8 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 * Parler } simil twitter, pero sin censura
 
+* Gab - https://gab.com/ } mejor que twitter, sin censura 
+
 * Mastodon Social } mejor que Facebutt
 
 * Signal
