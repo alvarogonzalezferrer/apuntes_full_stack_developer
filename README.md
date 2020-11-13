@@ -1,6 +1,6 @@
 # Apuntes full stack developer
 
- Mis apuntes para desarrollo web "full stack developer"
+ Mis apuntes para desarrollo web "full stack developer", y algunas cosas más.
 
 Aca voy a ir poniendo enlaces a cosas que me resultan útiles en mi desarrollo profesional.
 
@@ -59,6 +59,11 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
  * Brackets
 
  * Light Table
+
+## Documentación
+
+* https://readthedocs.org/
+
 
 ## Herramientas variadas
 
@@ -156,7 +161,7 @@ Sin la molestia de Google y su invasión a la privacidad
 
 * Aurora Store } https://auroraoss.com/downloads.php (**es segura esta APK ??** mejor sacarla de F-Droid)
 
-### Sacarse a Google de encima
+## Sacarse a Google de encima
 
 https://en.wikipedia.org/wiki/MicroG
 
@@ -170,6 +175,36 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 
 # Privacidad
+
+## Red social
+
+* MeWe
+
+* Parler
+
+* Mastodon
+
+* Signal
+
+* Telegram
+
+* Nitter
+
+* Tutanota
+
+* Protonmail
+
+* Snopyta https://snopyta.org/ } alternativa a los servicios de google
+
+* Duck Duck Go
+
+* https://streamable.com/
+
+* Bibiogram
+
+* Libgen } libros
+
+## Mas privacidad
 
 Falta mucho aca...
 
