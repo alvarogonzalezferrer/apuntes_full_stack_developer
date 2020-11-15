@@ -183,6 +183,8 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 # Privacidad
 
+* Guias EFF : https://www.eff.org/issues/privacy
+
 * Tor
 
 * MeWe
