@@ -38,6 +38,14 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * MariaDB
 
+ ## Hosting
+
+ * Dominios gratis: Freenom : https://www.freenom.com/es/index.html?lang=es } hay otros?
+
+ * Certificado SSL gratis : https://letsencrypt.org/ , https://www.sslforfree.com/ } hay otros
+
+ * Hosting gratis { a determinar }
+
  ## Fonts
 
  * Font Awesome - https://fontawesome.com/ / http://androidcss.com/css/icon-fonts/
