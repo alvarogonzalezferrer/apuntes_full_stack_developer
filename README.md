@@ -12,7 +12,7 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * Materialize : https://materializecss.com/
 
- * Bootstrap / Material design: https://mdbootstrap.com/
+ * Bootstrap https://getbootstrap.com/ / Material design: https://mdbootstrap.com/
 
  * React.js - single page web app (SAP) and mobile app.
 
