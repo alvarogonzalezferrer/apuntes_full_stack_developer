@@ -183,6 +183,9 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 # Privacidad
 
+*"Who put you in charge of what the media are allowed to report?"*
+Senator Ted Cruz
+
 * Guias EFF : https://www.eff.org/issues/privacy
 
 * Tor
