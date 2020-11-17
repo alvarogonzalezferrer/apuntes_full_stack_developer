@@ -187,7 +187,7 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 * Tor
 
-* MeWe
+* MeWe } tipo facebook pero mejor
 
 * Parler https://parler.com } simil twitter, pero sin censura
 
