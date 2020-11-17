@@ -189,7 +189,9 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 * MeWe
 
-* Parler } simil twitter, pero sin censura
+* Parler https://parler.com } simil twitter, pero sin censura
+
+* Rumble https://rumble.com/ } como youtube, pero sin censura
 
 * Gab - https://gab.com/ } mejor que twitter, sin censura
 
@@ -207,7 +209,7 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 * Snopyta https://snopyta.org/ } alternativa a los servicios de google
 
-* Duck Duck Go
+* Duck Duck Go } buscador para reemplazar a Google
 
 * https://streamable.com/
 
