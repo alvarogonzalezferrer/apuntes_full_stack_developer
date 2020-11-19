@@ -6,7 +6,7 @@ Aca voy a ir poniendo enlaces a cosas que me resultan útiles en mi desarrollo p
 
 Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
- ## Front-end / javascript frameworks
+## Front-end / javascript frameworks
 
  * Boilerplate HTML: https://html5boilerplate.com/ } plantilla muy útil
 
@@ -26,7 +26,7 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * https://bulma.io/ } CSS framework based on Flexbox
 
- ## Back-end
+## Back-end
 
  * PHP
 
@@ -46,11 +46,11 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * Hosting gratis { a determinar }
 
- ## Fonts
+## Fonts
 
  * Font Awesome - https://fontawesome.com/ / http://androidcss.com/css/icon-fonts/
 
- ## Editores / IDEs
+## Editores / IDEs
 
  * GitHub Desktop
 
@@ -94,17 +94,25 @@ Para juegos
 
 ## Pascal
 
-*pronto*
+ * Delphi : https://www.embarcadero.com/products/delphi/starter/free-download
+
+ * Lazarus - EXCELENTE
+
+ * Free Pascal
 
 ## Java
 
 *pronto*
 
-## Documentación
+## Basic
+
+*pronto*
+
+# Documentación
 
 * https://readthedocs.org/
 
-## Herramientas variadas
+# Herramientas variadas
 
 * GIMP
 
@@ -158,15 +166,15 @@ Para juegos
 
 * scrcpy - https://github.com/Genymobile/scrcpy } ver la pantalla del celu en la compu
 
-## Android TV
+# Android TV
 
 Para ver TV sin molestias, publicidad etc
 
-### Hardware
+## Hardware
 
 * Android TV Box } hardware https://www.amazon.com/s?k=android+tv+box
 
-### Bloquear publicidad
+## Bloquear publicidad
 
 * Blokada.org } LO MEJOR PARA ELIMINAR LA PUBLICIDAD EN EL CELU / TV / etc
 
@@ -176,15 +184,15 @@ Para ver TV sin molestias, publicidad etc
 
 * Brave Browser
 
-### Launcher sencillo
+## Launcher sencillo
 
 * Simple TV Launcher - https://github.com/alescdb/LauncherTV
 
-### Peliculas, series, etc
+## Peliculas, series, etc
 
 * Stremio } activar los plugins
 
-### Youtube
+## Youtube
 
 * Youtube Vanced - https://vanced.app/
 
@@ -192,7 +200,7 @@ Para ver TV sin molestias, publicidad etc
 
 * Newpipe
 
-### Instalar aplicaciones
+## Instalar aplicaciones
 
 Sin la molestia de Google y su invasión a la privacidad
 
@@ -200,7 +208,7 @@ Sin la molestia de Google y su invasión a la privacidad
 
 * Aurora Store } https://auroraoss.com/downloads.php (**es segura esta APK ??** mejor sacarla de F-Droid)
 
-## Sacarse a Google de encima
+# Sacarse a Google de encima
 
 https://en.wikipedia.org/wiki/MicroG
 
