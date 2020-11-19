@@ -54,7 +54,7 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * GitHub Desktop
 
- * Atom
+ * Atom https://atom.io/
 
  * Sublime
 
@@ -64,9 +64,11 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * Visual Studio Code
 
- * Brackets
+ * Brackets http://brackets.io/
 
  * Light Table
+
+ * Geany https://www.geany.org/
 
 ## C++
 
@@ -107,6 +109,14 @@ Para juegos
 ## Basic
 
 * QB64 - https://www.qb64.org
+
+* QuickVB - https://github.com/DualBrain/QuickVB
+
+* QBasic - https://www.qbasic.net/
+
+## Otros
+
+* https://vscodium.com/
 
 # Documentación
 
@@ -165,6 +175,12 @@ Para juegos
 * WinDirStat
 
 * scrcpy - https://github.com/Genymobile/scrcpy } ver la pantalla del celu en la compu
+
+* DosBox
+
+* Virtual Box
+
+* Linux Mint
 
 # Android TV
 
