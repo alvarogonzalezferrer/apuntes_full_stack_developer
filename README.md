@@ -70,7 +70,27 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 ## C++
 
-*pronto*
+Mi lenguaje favorito
+
+* GNU/GCC
+
+* DJGPP (retro)
+
+* Mingw
+
+* Cygwin
+
+* C++ Builder Free : https://www.embarcadero.com/products/cbuilder/starter/free-download
+
+* Dev C++ : https://www.embarcadero.com/free-tools/dev-cpp
+
+### Librerias
+
+Para juegos
+
+* Allegro
+
+* SDL
 
 ## Pascal
 
