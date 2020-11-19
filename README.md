@@ -1,6 +1,6 @@
 # Apuntes full stack developer
 
- Mis apuntes para desarrollo web "full stack developer", y algunas cosas más.
+ Mis apuntes para desarrollo "full stack developer", y algunas cosas más.
 
 Aca voy a ir poniendo enlaces a cosas que me resultan útiles en mi desarrollo profesional.
 
@@ -67,6 +67,18 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
  * Brackets
 
  * Light Table
+
+## C++
+
+*pronto*
+
+## Pascal
+
+*pronto*
+
+## Java
+
+*pronto*
 
 ## Documentación
 
