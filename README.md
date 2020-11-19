@@ -106,7 +106,7 @@ Para juegos
 
 ## Basic
 
-*pronto*
+* QB64 - https://www.qb64.org
 
 # Documentación
 
