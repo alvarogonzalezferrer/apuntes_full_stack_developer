@@ -38,7 +38,7 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * MariaDB
 
- ## Hosting
+## Hosting
 
  * Dominios gratis: Freenom : https://www.freenom.com/es/index.html?lang=es } hay otros?
 
@@ -104,7 +104,13 @@ Para juegos
 
 ## Java
 
-*pronto*
+* Eclipse
+
+* Netbeans
+
+* IntelliJ
+
+*pronto mas*
 
 ## Basic
 
@@ -196,13 +202,15 @@ Para ver TV sin molestias, publicidad etc
 
 * Firefox + uBlock origin
 
-ó
-
 * Brave Browser
 
 ## Launcher sencillo
 
 * Simple TV Launcher - https://github.com/alescdb/LauncherTV
+
+## Launcher para el celu
+
+* Lawnchair - https://lawnchair.app/
 
 ## Peliculas, series, etc
 
@@ -212,9 +220,7 @@ Para ver TV sin molestias, publicidad etc
 
 * Youtube Vanced - https://vanced.app/
 
-ó
-
-* Newpipe
+* Newpipe - https://newpipe.net/ } mucho mejor que la app oficial
 
 ## Instalar aplicaciones
 
@@ -242,13 +248,16 @@ https://en.wikipedia.org/wiki/DeGoogle
 *"Who put you in charge of what the media are allowed to report?"*
 Senator Ted Cruz
 
+*"La gente está harta de que los progres pretendan controlarlo y censurarlo todo, hasta nuestros mensajes privados"*
+Iván Espinosa de los Monteros
+
 * Guias EFF : https://www.eff.org/issues/privacy
 
 * Tor
 
 * MeWe } tipo facebook pero mejor
 
-* Parler https://parler.com } simil twitter, pero sin censura
+* ~~Parler https://parler.com } simil twitter, pero sin censura } hackeado 2021 por la brigada censuradora bolchevique~~
 
 * Rumble https://rumble.com/ } como youtube, pero sin censura
 
