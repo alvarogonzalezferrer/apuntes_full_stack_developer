@@ -14,6 +14,8 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * Bootstrap https://getbootstrap.com/ / Material design: https://mdbootstrap.com/
 
+ * https://bootsnipp.com - Super util para Bootstrap
+
  * React.js - single page web app (SAP) and mobile app.
 
  * JQuery - https://jquery.com/
