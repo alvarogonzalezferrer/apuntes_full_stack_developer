@@ -10,6 +10,10 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * Boilerplate HTML: https://html5boilerplate.com/ } plantilla muy útil
 
+ * https://startbootstrap.com/template/bare } otro Boilerplate
+
+ * https://github.com/lewagon/bootstrap-boilerplate } otro boilerplate mas 
+
  * Materialize : https://materializecss.com/
 
  * Bootstrap https://getbootstrap.com/ / Material design: https://mdbootstrap.com/
