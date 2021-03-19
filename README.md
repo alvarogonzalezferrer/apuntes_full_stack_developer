@@ -46,7 +46,17 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * MariaDB
 
-## Hacer
+## Aplicaciones de escritorio
+
+* Standalone application with Electron, React, and SQLite stack.
+
+* Electron
+
+* Netbeans
+
+* Lazarus
+
+
 
 ## Hosting
 
@@ -103,6 +113,8 @@ Para juegos
 * Allegro
 
 * SDL
+
+* https://github.com/ocornut/imgui -- GUI para C++
 
 ## Pascal
 
