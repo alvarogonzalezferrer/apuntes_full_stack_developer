@@ -46,17 +46,21 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * MariaDB
 
+ * SQLite
+
 ## Aplicaciones de escritorio
 
 * Standalone application with Electron, React, and SQLite stack.
 
-* Electron
+* Electron - https://www.electronjs.org/ - Crea aplicaciones multiplataforma de escritorio con JavaScript, HTML y CSS
 
-* Netbeans
+* Netbeans - tiene RAD GUI builder, etc en Java (C++ tambien?)
 
-* Lazarus
+* Lazarus - IDE tipo Delphi
 
+* SQLite ( base de datos local, ideal apps locales)
 
+* C++ -- faltaria buscar mas de esto *TODO hacer*
 
 ## Hosting
 
@@ -269,6 +273,18 @@ https://degoogle.jmoore.dev/
 https://www.reddit.com/r/degoogle/
 
 https://en.wikipedia.org/wiki/DeGoogle
+
+# Criptomonedas
+
+*TODO llenar esta seccion, esta muy verde y tengo mucha info*
+
+* Bitso -- exchange copado!
+
+* CriptoYA -- https://criptoya.com/api/ - api para saber precios de las criptos en argentina,y todos los dolares!
+
+* la API de Bitso par Python
+
+* https://taapi.io/ -- INDICADORES, tiene API, anda muy bien y facil
 
 
 # Privacidad
