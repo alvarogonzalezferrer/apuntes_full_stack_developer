@@ -36,6 +36,8 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * PHP
 
+ * Python
+
  * MySQL
 
  * Node.JS
@@ -43,6 +45,8 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
  * MongoDB
 
  * MariaDB
+
+## Hacer
 
 ## Hosting
 
@@ -117,6 +121,12 @@ Para juegos
 * IntelliJ
 
 *pronto mas*
+
+## Python
+
+* Python
+
+* PyCharm -- EXCELENTE!! IDE para python excelente, hay edicion comunitaria gratis
 
 ## Basic
 
