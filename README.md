@@ -12,7 +12,7 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * https://startbootstrap.com/template/bare } otro Boilerplate
 
- * https://github.com/lewagon/bootstrap-boilerplate } otro boilerplate mas 
+ * https://github.com/lewagon/bootstrap-boilerplate } otro boilerplate mas
 
  * Materialize : https://materializecss.com/
 
@@ -20,7 +20,7 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * https://bootsnipp.com - Super util para Bootstrap
 
- * React.js - single page web app (SAP) and mobile app.
+ * React.js - Una biblioteca de JavaScript para construir interfaces de usuario
 
  * JQuery - https://jquery.com/
 
