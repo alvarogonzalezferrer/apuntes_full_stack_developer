@@ -6,6 +6,18 @@ Aca voy a ir poniendo enlaces a cosas que me resultan útiles en mi desarrollo p
 
 Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
+## Libros y tutoriales
+
+* https://libgen.is
+
+* Udemy
+
+* Coursera
+
+* edX
+
+* Youtube
+
 ## Front-end / javascript frameworks
 
 * Boilerplate HTML: https://html5boilerplate.com/ } plantilla muy útil
@@ -241,6 +253,8 @@ Para **juegos**
 # Documentación variada
 
 * https://readthedocs.org/
+
+* https://libgen.is
 
 # Herramientas variadas
 
