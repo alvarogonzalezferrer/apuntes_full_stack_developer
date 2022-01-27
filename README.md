@@ -164,6 +164,68 @@ Para **juegos**
 
 * https://vscodium.com/
 
+# videojuegos - Gamedev
+
+## Librerias y frameworks video juegos
+
+* Cocos 2d
+
+* Love 2d
+
+* Godot -- excelente
+
+* Unity
+
+* Allegro
+
+* SFML
+
+* SDL
+
+* Raylib
+
+* QB64
+
+* Blender
+
+* Wings3D
+
+* https://upbge.org/
+
+* https://www.adventuregamestudio.co.uk/ -- aventuras graficas
+
+* MUGEN - https://en.wikipedia.org/wiki/Mugen_(game_engine) -- engine de pelea 
+
+* buscar mas...
+
+Foros de gamedev & video juegos
+
+* https://old.reddit.com/r/gamedev
+
+* https://old.reddit.com/r/indiegames/
+
+* https://old.reddit.com/r/gameDevClassifieds/
+
+* https://old.reddit.com/r/playmygame/
+
+* Steam
+
+* https://itch.io/
+
+* https://www.indiegogo.com/
+
+* https://www.humblebundle.com/
+
+* https://www.gog.com/
+
+* Gamasutra
+
+* Desarrolladores de videojuegos ( facebook )
+
+* ADVA
+
+* Global Game Jam
+
 # Documentación
 
 * https://readthedocs.org/
