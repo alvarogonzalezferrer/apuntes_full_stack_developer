@@ -226,6 +226,8 @@ Para **juegos**
 
 * https://old.reddit.com/r/gamedev
 
+* https://old.reddit.com/r/godot
+
 * https://old.reddit.com/r/indiegames/
 
 * https://old.reddit.com/r/gameDevClassifieds/
