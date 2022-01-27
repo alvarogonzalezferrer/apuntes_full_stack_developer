@@ -114,6 +114,8 @@ Mi lenguaje favorito
 
 Para **juegos**
 
+* Info https://old.reddit.com/r/gamedev
+
 * Allegro
 
 * SDL
