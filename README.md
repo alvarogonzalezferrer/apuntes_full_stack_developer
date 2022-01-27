@@ -1,6 +1,6 @@
 # Apuntes full stack developer
 
- Mis apuntes para desarrollo "full stack developer", y algunas cosas más.
+Mis apuntes para desarrollo "full stack developer", y algunas cosas más.
 
 Aca voy a ir poniendo enlaces a cosas que me resultan útiles en mi desarrollo profesional.
 
@@ -8,45 +8,45 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 ## Front-end / javascript frameworks
 
- * Boilerplate HTML: https://html5boilerplate.com/ } plantilla muy útil
+* Boilerplate HTML: https://html5boilerplate.com/ } plantilla muy útil
 
- * https://startbootstrap.com/template/bare } otro Boilerplate
+* https://startbootstrap.com/template/bare } otro Boilerplate
 
- * https://github.com/lewagon/bootstrap-boilerplate } otro boilerplate mas
+* https://github.com/lewagon/bootstrap-boilerplate } otro boilerplate mas
 
- * Materialize : https://materializecss.com/
+* Materialize : https://materializecss.com/
 
- * Bootstrap https://getbootstrap.com/ / Material design: https://mdbootstrap.com/
+* Bootstrap https://getbootstrap.com/ / Material design: https://mdbootstrap.com/
 
- * https://bootsnipp.com - Super util para Bootstrap
+* https://bootsnipp.com - Super util para Bootstrap
 
- * React.js - Una biblioteca de JavaScript para construir interfaces de usuario
+* React.js - Una biblioteca de JavaScript para construir interfaces de usuario
 
- * JQuery - https://jquery.com/
+* JQuery - https://jquery.com/
 
- * Angular - https://angular.io/
+* Angular - https://angular.io/
 
- * Vue - https://vuejs.org/ } es progresivo, se puede meter de a poco en proyectos legados
+* Vue - https://vuejs.org/ } es progresivo, se puede meter de a poco en proyectos legados
 
- * https://get.foundation/ }  responsive front-end framework
+* https://get.foundation/ }  responsive front-end framework
 
- * https://bulma.io/ } CSS framework based on Flexbox
+* https://bulma.io/ } CSS framework based on Flexbox
 
 ## Back-end
 
- * PHP
+* PHP
 
- * Python
+* Python
 
- * MySQL
+* MySQL
 
- * Node.JS
+* Node.JS
 
- * MongoDB
+* MongoDB
 
- * MariaDB
+* MariaDB
 
- * SQLite
+* SQLite
 
 ## Aplicaciones de escritorio
 
@@ -112,11 +112,15 @@ Mi lenguaje favorito
 
 ### Librerias
 
-Para juegos
+Para **juegos**
 
 * Allegro
 
 * SDL
+
+* SFML
+
+* https://github.com/raizam/gamedev_libraries
 
 * https://github.com/ocornut/imgui -- GUI para C++
 
@@ -139,8 +143,6 @@ Para juegos
 ### Librerias  
 
 * LibGDX -- videojuegos -- https://es.wikipedia.org/wiki/LibGDX
-
-*pronto mas*
 
 ## Python
 
@@ -173,6 +175,8 @@ Para juegos
 * BleachBit - https://www.bleachbit.org } limpieza de la compu, excelente
 
 * FAR commander
+
+* Multi Commander
 
 * Brave Browser
 
