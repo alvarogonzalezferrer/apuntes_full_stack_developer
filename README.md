@@ -136,6 +136,10 @@ Para juegos
 
 * IntelliJ
 
+### Librerias  
+
+* LibGDX -- videojuegos -- https://es.wikipedia.org/wiki/LibGDX
+
 *pronto mas*
 
 ## Python
@@ -280,12 +284,15 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 * Bitso -- exchange copado!
 
+* Buenbit
+
+* Lemon Cash
+
 * CriptoYA -- https://criptoya.com/api/ - api para saber precios de las criptos en argentina,y todos los dolares!
 
 * la API de Bitso par Python
 
 * https://taapi.io/ -- INDICADORES, tiene API, anda muy bien y facil
-
 
 # Privacidad
 
