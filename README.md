@@ -166,7 +166,7 @@ Para **juegos**
 
 # videojuegos - Gamedev
 
-## Librerias y frameworks video juegos
+## Librerias, engines, frameworks de gamedev
 
 * Cocos 2d
 
@@ -190,15 +190,17 @@ Para **juegos**
 
 * Wings3D
 
-* https://upbge.org/
+* https://upbge.org/ -- el engine de Blender
 
-* https://www.adventuregamestudio.co.uk/ -- aventuras graficas
+* https://www.adventuregamestudio.co.uk/ -- aventuras graficas !!
 
-* MUGEN - https://en.wikipedia.org/wiki/Mugen_(game_engine) -- engine de pelea 
+* MUGEN - https://en.wikipedia.org/wiki/Mugen_(game_engine) -- engine de pelea
+
+* OpenBOR - https://github.com/DCurrent/openbor - estilo streets of rage - 2D side scrolling engine for beat em' ups, shooters, and more!
 
 * buscar mas...
 
-Foros de gamedev & video juegos
+## Foros y tiendas de gamedev & video juegos
 
 * https://old.reddit.com/r/gamedev
 
@@ -226,7 +228,7 @@ Foros de gamedev & video juegos
 
 * Global Game Jam
 
-# Documentación
+# Documentación variada
 
 * https://readthedocs.org/
 
