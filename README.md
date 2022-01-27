@@ -172,6 +172,8 @@ Para **juegos**
 
 * Love 2d
 
+* Zerobrane Studio
+
 * Godot -- excelente
 
 * Unity
@@ -189,6 +191,14 @@ Para **juegos**
 * Blender
 
 * Wings3D
+
+* Pixi.js
+
+* LibGDX
+
+* OpenRA
+
+* Airtest
 
 * https://upbge.org/ -- el engine de Blender
 
