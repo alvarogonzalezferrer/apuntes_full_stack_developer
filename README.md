@@ -382,6 +382,12 @@ https://en.wikipedia.org/wiki/DeGoogle
 
 * Lemon Cash
 
+* Airtm
+
+* Kraken
+
+* Binance
+
 * CriptoYA -- https://criptoya.com/api/ - api para saber precios de las criptos en argentina,y todos los dolares!
 
 * la API de Bitso par Python
