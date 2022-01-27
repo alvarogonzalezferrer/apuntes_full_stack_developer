@@ -52,7 +52,7 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 * Standalone application with Electron, React, and SQLite stack. https://fmacedoo.medium.com/standalone-application-with-electron-react-and-sqlite-stack-9536a8b5a7b9
 
-* Electron - https://www.electronjs.org/ - Crea aplicaciones multiplataforma de escritorio con JavaScript, HTML y CSS
+* Electron JS - https://www.electronjs.org/ - Crea aplicaciones multiplataforma de escritorio con JavaScript, HTML y CSS, un cancer que usa gigabytes de RAM para hacer cualquier pavada.
 
 * Netbeans - tiene RAD GUI builder, etc en Java (C++ tambien?)
 
