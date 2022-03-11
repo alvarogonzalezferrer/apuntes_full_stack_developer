@@ -60,6 +60,14 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 * SQLite
 
+## Diseño de interfaces 
+
+* Figma : https://www.figma.com/
+
+## Capturar pantalla y transmitir 
+
+* OBS - https://obsproject.com/es
+
 ## Aplicaciones de escritorio
 
 * Standalone application with Electron, React, and SQLite stack. https://fmacedoo.medium.com/standalone-application-with-electron-react-and-sqlite-stack-9536a8b5a7b9
