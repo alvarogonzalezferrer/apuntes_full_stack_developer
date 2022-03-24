@@ -308,9 +308,9 @@ Para **juegos**
 
 * Meld - https://meldmerge.org/ }  diff and merge
 
-* Open-Shell
-
 * WinMerge - https://winmerge.org/ }  diff and merge
+
+* Open-Shell - classic start menu on Windows - https://open-shell.github.io/Open-Shell-Menu/
 
 * Ninite } instalaciones automatizadas, muy util!
 
