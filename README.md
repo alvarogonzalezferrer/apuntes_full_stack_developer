@@ -94,9 +94,21 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
  * Font Awesome - https://fontawesome.com/ / http://androidcss.com/css/icon-fonts/
 
-## Editores / IDEs
+## Control de versiones de codigo y hosteo
 
+ * GIT 
+ 
+ * Github } es gratis , por ahora ...
+ 
  * GitHub Desktop
+ 
+ * Sourceforge 
+ 
+ * Gitlab  } no es gratis 
+
+ * Concurrent Versions System , CVS } medio no se usa mas...
+
+## Editores / IDEs
 
  * Atom https://atom.io/
 
