@@ -356,6 +356,8 @@ Para ver TV sin molestias, publicidad etc
 
 * Brave Browser
 
+* Pi Hole: https://pi-hole.net/
+
 ## Launcher sencillo
 
 * Simple TV Launcher - https://github.com/alescdb/LauncherTV
@@ -370,7 +372,11 @@ Para ver TV sin molestias, publicidad etc
 
 ## Youtube
 
-* Youtube Vanced - https://vanced.app/
+* REVANCED : https://github.com/revanced
+
+* MUSIC : https://github.com/th-ch/youtube-music
+
+* ~Youtube Vanced - https://vanced.app/~ } 2022 MURIO
 
 * Newpipe - https://newpipe.net/ } mucho mejor que la app oficial
 
