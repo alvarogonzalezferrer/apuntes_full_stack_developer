@@ -268,6 +268,22 @@ Para **juegos**
 
 * https://old.reddit.com/r/IndieDev/
 
+* * https://old.reddit.com/r/CodingHelp
+
+* * https://old.reddit.com/r/gamedesign
+
+* * https://old.reddit.com/r/gamedevscreens
+
+* * https://old.reddit.com/r/gameideas
+
+* * https://old.reddit.com/r/gamejams
+
+* * https://old.reddit.com/r/playmygame
+
+* * https://old.reddit.com/r/solodevelopment
+
+* * https://old.reddit.com/r/truegamedev
+
 * https://old.reddit.com/r/godot
 
 * https://old.reddit.com/r/gameDevClassifieds/
