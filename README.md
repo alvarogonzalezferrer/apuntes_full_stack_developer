@@ -32,6 +32,8 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 * https://www.argentina.gob.ar/economia/conocimiento/argentina-programa
 
+* Hacker Rank
+
 ## Front-end / javascript frameworks
 
 * Boilerplate HTML: https://html5boilerplate.com/ } plantilla muy útil
@@ -260,7 +262,6 @@ Para **juegos**
 
 ## Foros y tiendas de gamedev & video juegos
 
-
 * https://old.reddit.com/r/gamedev
 
 * https://old.reddit.com/r/indiegames/
@@ -281,6 +282,8 @@ Para **juegos**
 
 * https://old.reddit.com/r/gaming/
 
+* https://old.reddit.com/r/Games/
+
 * https://old.reddit.com/r/argentina/comments/xfubla/empresas_de_juegos_indie_argentinas/
 
 * Estudios indie argentinos: Epic Llama, Purple Tree, Game Ever, Error 404, Nimble Giant Games, Indiesruption, Bundle Games, Whiteboard Games, Boxitsoft, Bigfoot gaming, Ravegan, Pizzia, 3OGS, saibot studios
@@ -297,6 +300,14 @@ Para **juegos**
 
 * https://www.gog.com/
 
+* https://github.com/Kavex/GameDev-Resources
+
+* https://old.reddit.com/r/Android/
+
+* Roblox
+
+* Epic Games store 
+
 * Gamasutra
 
 * Desarrolladores de videojuegos ( facebook )
@@ -308,6 +319,8 @@ Para **juegos**
 * IGN
 
 * Game developer conference: https://gdconf.com/
+
+* https://mobilegamer.biz/devs-not-baking-monetisation-into-the-creative-process-are-fucking-idiots-says-unitys-john-riccitiello/ } monetizar
 
 ## MS-DOS Gamedev 
 
