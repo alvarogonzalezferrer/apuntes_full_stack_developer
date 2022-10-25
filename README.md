@@ -316,6 +316,10 @@ Para **juegos**
 
 * Global Game Jam
 
+* https://roguejam.com/ } Rogue Jam, te financian el juego si ganas
+
+* * Ver https://old.reddit.com/r/gamedev/comments/uxg3wp/i_just_turned_down_a_100k_nonrecoupment/
+
 * IGN
 
 * Game developer conference: https://gdconf.com/
