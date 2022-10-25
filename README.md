@@ -38,7 +38,7 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 * https://old.reddit.com/r/programming
 
-* https://old.reddit.com/r/coding
+* https://old.reddit.com/r/coding } la version no bullshit de programming
 
 * https://old.reddit.com/r/csshelp
 
@@ -299,25 +299,27 @@ Para **juegos**
 
 * https://old.reddit.com/r/gamedev
 
+* https://old.reddit.com/r/truegamedev
+
 * https://old.reddit.com/r/indiegames/
 
 * https://old.reddit.com/r/IndieDev/
 
-* * https://old.reddit.com/r/CodingHelp
+* https://old.reddit.com/r/CodingHelp
 
-* * https://old.reddit.com/r/gamedesign
+* https://old.reddit.com/r/gamedesign
 
-* * https://old.reddit.com/r/gamedevscreens
+* https://old.reddit.com/r/gamedevscreens
 
-* * https://old.reddit.com/r/gameideas
+* https://old.reddit.com/r/gameideas
 
-* * https://old.reddit.com/r/gamejams
+* https://old.reddit.com/r/gamejams
 
-* * https://old.reddit.com/r/playmygame
+* https://old.reddit.com/r/playmygame
 
-* * https://old.reddit.com/r/solodevelopment
+* https://old.reddit.com/r/solodevelopment
 
-* * https://old.reddit.com/r/truegamedev
+* http://www-cs-students.stanford.edu/%7Eamitp/gameprog.html
 
 * https://old.reddit.com/r/godot
 
