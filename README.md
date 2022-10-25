@@ -18,6 +18,20 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 * Youtube
 
+* https://www.freecodecamp.org/espanol/
+
+* https://open-bootcamp.com/
+
+* https://www.theodinproject.com
+
+* https://github.com/codeselfstudy
+
+* https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+
+* https://www.buenosaires.gob.ar/educacion/codo-codo
+
+* https://www.argentina.gob.ar/economia/conocimiento/argentina-programa
+
 ## Front-end / javascript frameworks
 
 * Boilerplate HTML: https://html5boilerplate.com/ } plantilla muy útil
@@ -107,6 +121,8 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
  * Gitlab  } no es gratis 
 
  * Concurrent Versions System , CVS } medio no se usa mas...
+ 
+ * https://bitbucket.org/
 
 ## Editores / IDEs
 
@@ -196,21 +212,21 @@ Para **juegos**
 
 * https://vscodium.com/
 
-# videojuegos - Gamedev
+# Videojuegos - Gamedev
 
 ## Librerias, engines, frameworks de gamedev
 
-* Cocos 2d
-
-* Love 2d
-
-* Zerobrane Studio
+* Allegro
 
 * Godot -- excelente
 
 * Unity
 
-* Allegro
+* Cocos 2D
+
+* Love 2D
+
+* Zerobrane Studio
 
 * SFML
 
