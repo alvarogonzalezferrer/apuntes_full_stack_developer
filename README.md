@@ -446,6 +446,12 @@ Para **juegos**
 
 * publicar un juego, comentario de advertencia: https://old.reddit.com/r/gamedev/comments/uxg3wp/i_just_turned_down_a_100k_nonrecoupment/ia1ypw7/
 
+* Hacer un juego adictivo:
+
+https://en.wikipedia.org/wiki/Compulsion_loop
+
+https://gameanalytics.com/blog/the-compulsion-loop-explained/
+
 # Documentación variada
 
 * https://readthedocs.org/
