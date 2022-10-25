@@ -6,6 +6,12 @@ Aca voy a ir poniendo enlaces a cosas que me resultan útiles en mi desarrollo p
 
 Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
+## Buscar trabajo 
+
+** desarrollar ! **
+
+https://www.turing.com/
+
 ## Libros y tutoriales
 
 * https://libgen.is
@@ -382,6 +388,8 @@ Para **juegos**
 
 * https://mobilegamer.biz/devs-not-baking-monetisation-into-the-creative-process-are-fucking-idiots-says-unitys-john-riccitiello/ } monetizar
 
+* https://gamedesignskills.com/game-design/first-video-game-design-job-interviews-pass-game-design-tests/
+
 ## MS-DOS Gamedev 
 
 * https://dosgames.com/forum/
@@ -435,6 +443,8 @@ Para **juegos**
 * https://www.cs.cmu.edu/~ralf/files.html
 
 * http://www.ctyme.com/rbrown.htm
+
+* publicar un juego, comentario de advertencia: https://old.reddit.com/r/gamedev/comments/uxg3wp/i_just_turned_down_a_100k_nonrecoupment/ia1ypw7/
 
 # Documentación variada
 
@@ -493,6 +503,8 @@ Para **juegos**
 * Open-Shell - classic start menu on Windows - https://open-shell.github.io/Open-Shell-Menu/
 
 * Ninite } instalaciones automatizadas, muy util!
+
+* https://chocolatey.org/ } instalaciones automaticas
 
 * Paint.NET
 
