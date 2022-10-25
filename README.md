@@ -34,6 +34,26 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 * Hacker Rank
 
+## Foros webdev y dev en general 
+
+/r/programming
+/r/coding
+/r/csshelp
+/r/CSStutorials
+/r/themes
+/r/google
+/r/css
+/r/html
+/r/html5
+/r/web_design
+/r/javabeginners
+/r/learnjava
+/r/javascript
+/r/learnjavascript
+/r/webdev
+/r/InternetIsBeautiful
+
+
 ## Front-end / javascript frameworks
 
 * Boilerplate HTML: https://html5boilerplate.com/ } plantilla muy útil
