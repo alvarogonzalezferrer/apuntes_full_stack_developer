@@ -36,22 +36,37 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 ## Foros webdev y dev en general 
 
-/r/programming
-/r/coding
-/r/csshelp
-/r/CSStutorials
-/r/themes
-/r/google
-/r/css
-/r/html
-/r/html5
-/r/web_design
-/r/javabeginners
-/r/learnjava
-/r/javascript
-/r/learnjavascript
-/r/webdev
-/r/InternetIsBeautiful
+* https://old.reddit.com/r/programming
+
+* https://old.reddit.com/r/coding
+
+* https://old.reddit.com/r/csshelp
+
+* https://old.reddit.com/r/CSStutorials
+
+* https://old.reddit.com/r/themes
+
+* https://old.reddit.com/r/google
+
+* https://old.reddit.com/r/css
+
+* https://old.reddit.com/r/html
+
+* https://old.reddit.com/r/html5
+
+* https://old.reddit.com/r/web_design
+
+* https://old.reddit.com/r/javabeginners
+
+* https://old.reddit.com/r/learnjava
+
+* https://old.reddit.com/r/javascript
+
+* https://old.reddit.com/r/learnjavascript
+
+* https://old.reddit.com/r/webdev
+
+* https://old.reddit.com/r/InternetIsBeautiful
 
 
 ## Front-end / javascript frameworks
