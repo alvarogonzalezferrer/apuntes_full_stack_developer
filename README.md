@@ -266,6 +266,8 @@ Para **juegos**
 
 * https://old.reddit.com/r/indiegames/
 
+* https://old.reddit.com/r/IndieDev/
+
 * https://old.reddit.com/r/godot
 
 * https://old.reddit.com/r/gameDevClassifieds/
@@ -290,7 +292,8 @@ Para **juegos**
 
 * EVA (Exposición de Videojuegos Argentina)
 
-* Steam
+* Steam 
+* * https://old.reddit.com/r/Steam/
 
 * https://itch.io/
 
