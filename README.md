@@ -260,6 +260,7 @@ Para **juegos**
 
 ## Foros y tiendas de gamedev & video juegos
 
+
 * https://old.reddit.com/r/gamedev
 
 * https://old.reddit.com/r/godot
@@ -269,6 +270,8 @@ Para **juegos**
 * https://old.reddit.com/r/gameDevClassifieds/
 
 * https://old.reddit.com/r/playmygame/
+
+* https://old.reddit.com/r/pcmasterrace/
 
 * Steam
 
@@ -288,6 +291,39 @@ Para **juegos**
 
 * Global Game Jam
 
+* IGN
+
+* Game developer conference: https://gdconf.com/
+
+## MS-DOS Gamedev 
+
+* https://dosgames.com/forum/
+
+* https://www.doshaven.eu/programming-tools/
+
+* DJGPP 
+
+* Allegro 4 
+
+* Volkov Commander 
+
+* UPX 
+
+* FreeDOS 
+
+* Dosbox 
+
+* x86box 
+
+* https://www.reddit.com/r/dosgaming
+
+* QBASIC 
+
+* Turbo Pascal 
+
+* Turbo C
+
+
 # Documentación variada
 
 * https://readthedocs.org/
@@ -295,6 +331,8 @@ Para **juegos**
 * https://libgen.is
 
 # Herramientas variadas
+
+* Aseprite
 
 * GIMP
 
@@ -307,6 +345,8 @@ Para **juegos**
 * Multi Commander
 
 * Brave Browser
+
+* Firefox 
 
 * 7-Zip
 
@@ -354,7 +394,26 @@ Para **juegos**
 
 * Virtual Box
 
+* x86box 
+
 * Linux Mint
+
+* pCloud 
+
+* FAR manager 
+
+* Process Hacker 
+
+* Multicommander
+
+* Everything 
+
+
+
+# Cosas corporativas 
+
+* Jira - SCRUM, kanban, planificacion, etc 
+
 
 # Android TV
 
@@ -387,6 +446,8 @@ Para ver TV sin molestias, publicidad etc
 * Stremio } activar los plugins
 
 ## Youtube
+
+* SmartTube : https://smartyoutubetv.github.io/
 
 * REVANCED : https://github.com/revanced
 
