@@ -323,6 +323,11 @@ Para **juegos**
 
 * Turbo C
 
+* OpenWatcom 
+
+* Libro Andre LaMothe - Tricks of the Game Programming Gurus-Sams Publishing (1994) (no el de 1999)
+
+* https://www.reddit.com/r/gamedev/comments/baeb3s/postmortem_porting_a_commercial_dos_game_from/
 
 # Documentación variada
 
@@ -412,7 +417,13 @@ Para **juegos**
 
 # Cosas corporativas 
 
-* Jira - SCRUM, kanban, planificacion, etc 
+## SCRUM, kanban, planificacion, etc 
+
+* Jira 
+
+* Trello 
+
+* Asana
 
 
 # Android TV
