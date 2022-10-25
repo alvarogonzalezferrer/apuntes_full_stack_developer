@@ -263,15 +263,29 @@ Para **juegos**
 
 * https://old.reddit.com/r/gamedev
 
-* https://old.reddit.com/r/godot
-
 * https://old.reddit.com/r/indiegames/
+
+* https://old.reddit.com/r/godot
 
 * https://old.reddit.com/r/gameDevClassifieds/
 
 * https://old.reddit.com/r/playmygame/
 
 * https://old.reddit.com/r/pcmasterrace/
+
+* https://old.reddit.com/r/Unity3D/
+
+* https://old.reddit.com/r/playmygame/
+
+* https://old.reddit.com/r/DestroyMyGame/
+
+* https://old.reddit.com/r/gaming/
+
+* https://old.reddit.com/r/argentina/comments/xfubla/empresas_de_juegos_indie_argentinas/
+
+* Estudios indie argentinos: Epic Llama, Purple Tree, Game Ever, Error 404, Nimble Giant Games, Indiesruption, Bundle Games, Whiteboard Games, Boxitsoft, Bigfoot gaming, Ravegan, Pizzia, 3OGS, saibot studios
+
+* EVA (Exposición de Videojuegos Argentina)
 
 * Steam
 
@@ -301,9 +315,11 @@ Para **juegos**
 
 * https://www.doshaven.eu/programming-tools/
 
-* DJGPP 
+* DJGPP - https://en.wikipedia.org/wiki/DJGPP
 
 * Allegro 4 
+
+* https://www.mrdictionary.net/allegro/
 
 * Volkov Commander 
 
@@ -328,6 +344,24 @@ Para **juegos**
 * Libro Andre LaMothe - Tricks of the Game Programming Gurus-Sams Publishing (1994) (no el de 1999)
 
 * https://www.reddit.com/r/gamedev/comments/baeb3s/postmortem_porting_a_commercial_dos_game_from/
+
+* https://www.doshaven.eu/sources/
+
+* https://en.wikipedia.org/wiki/DOS_API
+
+* https://en.wikipedia.org/wiki/Ralf_Brown%27s_Interrupt_List } excelente
+
+* https://www.reddit.com/r/dosgaming/comments/adr382/the_making_of_dos_games/
+
+* https://www.pixelships.com/adg/
+
+* https://web.archive.org/web/20171103080100/http://www.ctyme.com/intr/cat-010.htm
+
+* https://web.archive.org/web/20020622163518/http://www.arl.wustl.edu/~lockwood/class/cs306/books/artofasm/toc.html
+
+* https://www.cs.cmu.edu/~ralf/files.html
+
+* http://www.ctyme.com/rbrown.htm
 
 # Documentación variada
 
