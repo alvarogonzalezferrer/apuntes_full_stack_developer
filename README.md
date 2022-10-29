@@ -12,6 +12,8 @@ Esta dirigido a mi mismo, pero si te sirve, si te es útil, bienvenido!
 
 https://www.turing.com/
 
+https://jobrun.dev/
+
 ## Libros y tutoriales
 
 * https://libgen.is
@@ -26,7 +28,9 @@ https://www.turing.com/
 
 * https://www.freecodecamp.org/espanol/
 
-* https://open-bootcamp.com/
+* https://open-bootcamp.com/ } muy bueno y gratis
+
+* https://fireship.io/courses/ } muy bueno, parcialmente gratis 
 
 * https://www.theodinproject.com
 
